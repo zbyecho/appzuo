@@ -227,6 +227,7 @@ body{
 	color: #191919;
 	font-size: 12px;
 	font-weight: bold;
+	line-height: 1;
 }
 .zby_jr .zby_zibox .zby_titleft span{
 	display: inline-block;
