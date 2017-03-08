@@ -203,11 +203,11 @@ body{
 }
 .zby_jzbox .zby_jz .zby_jliz .zby_jr{
 		flex:1 0 auto;
-		padding: 0.2rem 0;
+		padding: 0.24rem 0;
 }
 
 .zby_jr .zby_zibox{
-	padding-bottom: 0.1rem;
+	padding-bottom: 0.06rem;
 	width: 100%;
 	height: auto;
 	border-bottom: 1px dashed #B3A991;
@@ -248,7 +248,7 @@ body{
 	height: 0.34rem;
 }
 .zby_jr .zby_titlbom{
-	padding-top: 0.1rem;
+	padding-top: 0.06rem;
 	color: #656468;
 	display: flex;
 	justify-content:space-between;
