@@ -3,6 +3,10 @@ body{
 	font-family: 'Helvetica';
 	user-select:none;
 }
+a{
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+	background-color: transparent;
+}
 /*头部*/
 .xq_header{
 	height: 0.88rem;

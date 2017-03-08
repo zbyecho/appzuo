@@ -161,7 +161,7 @@ html,body{
 	left: 0.4rem;
 	width: 6.77rem;
 	height: 1.51rem;
-	line-height: 1.51rem;
+	/*line-height: 1.51rem;*/
 	padding-top: 0.30rem;
 	background: url(../../images/bzp/sousuok.png) no-repeat center center/cover;
 }
