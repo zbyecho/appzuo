@@ -266,7 +266,7 @@ body{
 .zby_jr .zby_titlbom img{
 	width: 0.24rem;
 	height: 0.24rem;
-	margin-right: 0.1rem;
+	margin-right: 0.06rem;
 	
 }
 .zby_jr .zby_titlbom .zby_tir{
@@ -280,6 +280,7 @@ body{
 	display: inline-block;
 	display: inline-flex;
 	align-items:center;
+	margin-right: 0.06rem;
 }
 /*兼职宝典结束*/
 
